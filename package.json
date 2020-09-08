@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config",
+  "name": "@tmware/eslint-config",
   "version": "1.0.0",
   "description": "eslint config for tmware typescript projects",
   "main": "index.js",
