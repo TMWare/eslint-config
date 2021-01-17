@@ -16,6 +16,8 @@ module.exports = {
   },
   rules: {
     'no-console': 1,
-    'no-unused-vars': 0
+    'no-unused-vars': 0,
+    curly: ['warn', 'multi-line'],
+    'brace-style': ['warn', 'stroustrup', { allowSingleLine: true }]
   }
 }
