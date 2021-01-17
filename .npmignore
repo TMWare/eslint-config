@@ -7,4 +7,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # npm specific
-.prettierrc
+.gitignore
+.gitattributes
+README.md
