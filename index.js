@@ -27,6 +27,6 @@ module.exports = {
     'require-await': 0,
     'eol-last': [2, 'always'],
     'linebreak-style': [2, 'unix'],
-    indent: [2, 2]
+    indent: [2, 2, { SwitchCase: 1 }]
   }
 }
