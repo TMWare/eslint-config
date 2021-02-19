@@ -1,6 +1,8 @@
 # @tmware/eslint-config [![NPM](https://img.shields.io/npm/v/@tmware/eslint-config.svg)](https://www.npmjs.com/package/@tmware/eslint-config)
 
-ESLint config for my TypeScript projects.
+ESLint config for my JavaScript projects.
+
+TypeScript configuration has moved to [@tmware/eslint-config-typescript](https://www.npmjs.com/package/@tmware/eslint-config-typescript).
 
 ## Installation
 
@@ -26,6 +28,6 @@ Lint script for `package.json`
 
 ```json
 ...
-"lint": "eslint --ext .js,.ts --ignore-path .gitignore src/"
+"lint": "eslint --ext .js --ignore-path .gitignore src/"
 ...
 ```
