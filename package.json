@@ -1,6 +1,6 @@
 {
   "name": "@tmware/eslint-config",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "eslint config for tmware projects",
   "main": "index.js",
   "repository": "https://github.com/TMWare/eslint-config.git",
