@@ -11,15 +11,15 @@
     "eslint": "^7.8.1"
   },
   "dependencies": {
-    "eslint-config-standard": "^16.0.2",
-    "eslint-plugin-import": "^2.22.1",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.23.4",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^4.2.1"
+    "eslint-plugin-promise": "^5.1.0"
   },
   "devDependencies": {
-    "@tmware/prettier-config": "^1.0.2",
-    "eslint": "^7.18.0",
-    "prettier": "^2.2.1"
+    "@tmware/prettier-config": "^1.0.3",
+    "eslint": "^7.30.0",
+    "prettier": "^2.3.2"
   },
   "eslintConfig": {
     "extends": "./index"
